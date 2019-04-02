@@ -1,0 +1,3 @@
+class Three(object):
+    pass
+
